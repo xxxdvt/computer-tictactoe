@@ -1,1 +1,1 @@
-# master_class_bmstu.github.io
+# tictactoe w/ computer
